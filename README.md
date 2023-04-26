@@ -55,6 +55,19 @@ At this stage the ticket has been received and waiting to be assigned to an agen
 </p>
 <br />
 
+<h3>Working the Issue</h3>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Once logged in, the Tickets window show. It will show the ticket number, Last time it was updated, subject, who submitted the ticket, level of priority, and who it is assigned to. Click on the ticket number to open the ticket to work.
+  
+  After the ticket has been uptdated. It's now open and in work in progress status. To ensure best practice for each service delivery, SLAs must be maintained. SLA is used to measure the ticket response time, resolution time and validationg whether the target is met or not meat.
+Working on the issue allows the agents to have a real life check up on the ticket. This is the process of giving solution and resolving the ticket.
+</p>
+<br />
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
