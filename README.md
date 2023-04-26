@@ -67,7 +67,7 @@ Working on the issue allows the agents to have a real life check up on the ticke
 </p>
 <br />
 
-<h3>Resolution</h3>
+                                                                                                                                                                                                                                                                                         Resolution</h3>
 <p>
 <img src="https://user-images.githubusercontent.com/131130119/234635436-199ed4c2-7fc2-4333-89b4-7e2d20668f2f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -80,7 +80,7 @@ Working on the issue allows the agents to have a real life check up on the ticke
 <p>                                                                                                    
 <br />
 
-
+ <h3> A Complete Ticket lifecycle</h3>
 <p>
 <img src="https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fbvcgbny2wsqh4frymgf3vun85%2Fpublic%2F1637715234%2FScreen+Shot+2021-11-23+at+6.46.29+PM.1637715233984.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
