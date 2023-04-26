@@ -57,7 +57,7 @@ At this stage the ticket has been received and waiting to be assigned to an agen
 
 <h3>Working the Issue</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/131130119/234623281-8bc23c4c-1b60-4f7b-b54f-1a9b9f0ae567.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Once logged in, the Tickets window show. It will show the ticket number, Last time it was updated, subject, who submitted the ticket, level of priority, and who it is assigned to. Click on the ticket number to open the ticket to work.
@@ -67,11 +67,20 @@ Working on the issue allows the agents to have a real life check up on the ticke
 </p>
 <br />
 
+<h3>Resolution</h3>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/234635436-199ed4c2-7fc2-4333-89b4-7e2d20668f2f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/131130119/234637214-5c5985a6-f42c-49f9-bc66-eef8767146f0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>                                                                                                    
+<br />
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fbvcgbny2wsqh4frymgf3vun85%2Fpublic%2F1637715234%2FScreen+Shot+2021-11-23+at+6.46.29+PM.1637715233984.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
