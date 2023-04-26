@@ -43,11 +43,15 @@ This is the first stage in the lifecycle of a ticket. At this stage, a user crea
 <img src="https://user-images.githubusercontent.com/131130119/234603633-b1fe9363-9783-47f4-b115-2afdd28b0810.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+At this stage the ticket has been received and waiting to be assigned to an agent. Once assigned to an agent, the responsibilty is to move the ticket from its current status (NEW) to the Work in Progress (WIP) status. This is done by responding to the ticket in a form of communication. At the stage, communication to the user or ticket creator relieves him/her to believing that her ticket is heading to the process of resolution.
+</p>
+<p>
 <img src="https://user-images.githubusercontent.com/131130119/234607096-fdbe2be1-c355-44fc-94dd-ff1773b9bfda.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-At this stage the ticket has been received and waiting to be assigned to an agent. Once assigned to an agent, the responsibilty is to move the ticket from its current status (NEW) to the Work in Progress (WIP) status. This is done by responding to the ticket in a form of communication. At the stage, communication to the user or ticket creator relieves him/her to believing that her ticket is heading to the process of resolution. At this stages the ticket is be updated by the agent to the exact information and specifics from the user to ensure the actual issues are on record. The user is then reassured by the agent that the his team is checking on his ticket now and will soon get back to him with the required solutions. After this brief communction, the agent has sucessfully changed the ticket to work in progress statue. 
+  After few minutes the agent has to get back at the user again, requesting information relating to the issue. 
+ At this stages the ticket is be updated by the agent to the exact information and specifics from the user to ensure the actual issues are on record. The user is then reassured by the agent that the his team is checking on his ticket now and will soon get back to him with the required solutions. After this brief communction, the agent has sucessfully changed the ticket to work in progress status. In some cases if the user delays with the information ticket can be places on hold or pending for a while prior the information is provided. 
 </p>
 <br />
 
